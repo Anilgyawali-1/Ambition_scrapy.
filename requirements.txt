@@ -1,0 +1,10 @@
+1. Name of the companies 
+2. Ratings
+3. Nature of business
+4. Type of company
+5. CEO
+6. Ownership
+7. Headquarters
+8. Founded in
+9. Company Contact no.
+10. Description
